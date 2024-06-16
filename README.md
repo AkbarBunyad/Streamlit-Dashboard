@@ -1,6 +1,8 @@
-A simple dashboard application built within Streamlit for management.
+A simple dashboard application built within Streamlit:
 
-##Features
+![image](https://github.com/AkbarBunyad/Streamlit-Dashboard/assets/114834354/8312c7cf-6a73-4f42-b439-b0f11e59ee57)
+
+## Features
 
 - Display data from an Excel file
 - Add new records to the Excel file
@@ -8,13 +10,15 @@ A simple dashboard application built within Streamlit for management.
 - Filter and view specific columns
 - Cross-tabulation for category and type analysis
 
-##Installation
+## Installation
 
 1. **Clone the repository:**
-   '''bash
+
+    ```bash
     git clone https://github.com/AkbarBunyad/Streamlit-Dashboard.git
     cd Streamlit-Dashboard
-   '''
+    ```
+    
 2. **Create and activate a virtual environment (optional but recommended):**
 
     ```bash
